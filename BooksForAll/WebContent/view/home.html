@@ -1,0 +1,21 @@
+<!-- Home page: shown as a landing page -->
+<div class="home-page jumbotron">
+	<div class="container">
+		<img src="lib/images/logo.jpg" />
+		<p class="warning-message">{{loginWarning}}</p>
+		<p class="success-message">{{registrationSuccess}}</p>
+		<h1>Welcome{{" " + user.Nickname}}</h1>
+		<h2>Here in BooksForAll you can:</h2>
+		<p>
+			<span class="glyphicon glyphicon-usd" aria-hidden="true"></span>Buy e-books<br>
+			<span class="glyphicon glyphicon-bookmark" aria-hidden="true"></span>Read e-books on your browser<br>
+			<span class="glyphicon glyphicon-share" aria-hidden="true"></span>Share	your feedback with respect to books you have read.
+		</p>
+		<div ng-hide="isUserLoggedIn">
+			<p>Please Login in order to use the application.</p>
+			<p>
+				<a ng-click="setView('view/register.html')" class="btn btn-primary">Or register now &raquo;</a>
+			</p>
+		</div>
+	</div>
+</div>

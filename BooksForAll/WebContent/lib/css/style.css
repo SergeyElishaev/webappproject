@@ -1,0 +1,271 @@
+button{
+	outline: none !important;
+}
+ul{
+    list-style: none;
+}
+footer {
+	width: 100%;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.glyphicon {
+	padding: 0 5px 0 5px;
+}
+.glyphicon-star{
+    color: #8cad3f;
+}
+.jumbotron{
+	background-color: #ffffff;
+}
+.navbar{
+	margin-bottom: 0;
+    z-index: 25;
+}
+.navbar a{
+	cursor: pointer;
+}
+.navbar .nav-el-admin-section{
+	color: #9dd7fb !important;
+}
+.navbar .nav-el-admin-section:hover{
+	color: #ffffff !important;
+}
+
+.warning-message{
+	color: orange;
+}
+.success-message{
+	color: green;
+}
+.list-label{
+	font-weight: bold;
+}
+.reg-form-addr-section{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.store-book-wrapper{
+    width: 25%;
+    min-width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline-grid;
+    /*height: 60vh;*/
+    margin-bottom: 20px;
+    background-color: #ffffff;
+}
+.store-book-wrapper:hover{
+	background-color: #effffd;
+}
+.store-book-wrapper:active{
+	background-color: #f9f9f9;
+}
+.store-book-title{
+    width: 85%;
+    height: 5em;
+    font-weight: 900;
+    margin: 0 auto;
+}
+.store-book-wrapper img {
+    width: 85%;
+    margin: 0 auto;
+}
+.store-book-description{
+	width: 85%;
+    height: 5em;
+	color: #8a8a8a;
+    font-style: italic;
+    margin: 0 auto;
+}
+.store-book-likes, .store-book-reviews{
+	display: inline-block;
+	cursor: pointer;
+}
+.store-book-likes:hover, .store-book-reviews:hover{
+	font-weight: bold;
+}
+.store-book-price{
+	color: green;
+	margin: 0 auto;
+}
+.store-book-button-section{
+	display: inline;
+}
+.store-book-button-section div {
+    display: grid;
+}
+.store-book-likes-tooltip{
+	display: none;
+    position: absolute;
+    z-index: 12;
+    text-align: left;
+    background-color: whitesmoke;
+    border: 1px dotted black;
+    border-radius: 5px;
+}
+.likes-tooltip-div ul {
+    width: -webkit-fill-available;
+}
+.likes-tooltip-div ul li:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+.likes-tooltip-div {
+    position: sticky;
+    z-index: 13;
+}
+.store-payment-form{
+	display: none;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    margin-left: -20%;
+    width: 40%;
+    z-index: 11;
+}
+.book-info-write-review-form{
+	display: none;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    margin-left: -20%;
+    width: 40%;
+    z-index: 11;
+}
+.my-books-collection button{
+	display: grid;
+    width: 45%;
+    margin: 0 auto;
+}
+
+.mybooks-reading-window{
+	display: none;
+    position: fixed;
+    top: 70px;
+    width: 62vw;
+    left: 50%;
+    margin-left: -31vw; /*half of the width*/
+    height: 90%;
+    background-color: #e4e4e4;
+	border: 3px solid black;
+	overflow-y: scroll;
+	z-index: 11;
+}
+.mybooks-reading-window .reading-book-content{
+    padding: 25px 10px 0 10px;
+}
+.mybooks-reading-window .close-book-button, .mybooks-book-info .close-book-info-button {
+	position: fixed;
+    display: inline-block;
+    font-weight: 900;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 8px;
+    background-color: orange;
+    cursor:pointer;
+    z-index: 13;
+}
+.mybooks-reading-window .close-book-button:active{
+	background-color: red;
+}
+.mybooks-book-info{
+	display: none;
+    position: fixed;
+    top: 80px;
+    left: 50%;
+    margin-left: -25vw; /*half of the width*/
+    width: 50vw;
+    height: 85%;
+    background-color: #e4e4e4;
+    border: 3px solid black;
+    overflow-y: scroll;
+    z-index: 11;
+    
+}
+.mybooks-book-info .book-info-img{
+	width: 120px;
+}
+.book-info-review-date{
+	color: #8a8a8a;
+    font-style: italic;
+}
+.mybooks-book-info-content{
+	padding: 25px 10px 0 10px;
+}
+.admin-user-wrapper{
+    border-bottom: 1px solid lightgray;
+    margin: 0 auto;
+    margin: 15px 0 0 0;
+}
+.admin-transaction-wrapper{
+	border-bottom: 1px solid lightgray;
+    margin: 0 auto;
+    margin: 15px 0 0 0;
+}
+.admin-review-request-wrapper{
+	border-bottom: 1px solid lightgray;
+    margin: 0 auto;
+    margin: 15px 0 0 0;
+}
+.admin-all-users, .admin-recent-transactions, .admin-browse-ebooks, .admin-review-requests{
+	display: none;
+	height: 60vh;
+	overflow-y: scroll;
+}
+.admin-list-buttons{
+    text-align: center;
+}
+.admin-review-status-approved{
+	font-weight: bold;
+	color: green;
+}
+.admin-review-status-pending{
+	font-weight: bold;
+	color: orange;
+}
+.admin-review-status-rejected{
+	font-weight: bold;
+	color: red;
+}
+.admin-user-admin-label{
+	color: blue;
+	font-weignt: bold;
+}
+.user-info-window{
+	display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -25vw; /*half of the width*/
+    padding: 10px;
+    width: 50vw;
+    background-color: #e4e4e4;
+    border: 3px solid black;
+    border-radius: 40px;
+    z-index: 11;
+}
+.user-info-image{
+	display: table-cell;
+    vertical-align: middle;
+}
+.user-info-list{
+	display: table-cell;
+}
+
+div.mask{
+	display:none;
+	position: fixed;
+	top:0;
+	left:0;
+	background-color: white;	
+	width:100%;
+	height:100%;
+	opacity: 0.8;
+	z-index: 10;
+}

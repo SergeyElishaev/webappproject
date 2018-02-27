@@ -1,0 +1,844 @@
+[
+	{
+		"BookId": "1",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "19",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "1",
+		"UserId": "20",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	{
+		"BookId": "2",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "8",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "2",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	
+	{
+		"BookId": "3",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "8",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "19",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "3",
+		"UserId": "20",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	
+	
+	{
+		"BookId": "4",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "4",
+		"UserId": "19",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	
+	{
+		"BookId": "5",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "20",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "5",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	
+	{
+		"BookId": "6",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "19",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "6",
+		"UserId": "20",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	{
+		"BookId": "7",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "8",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "7",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	{
+		"BookId": "8",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "8",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "19",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "8",
+		"UserId": "20",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	{
+		"BookId": "9",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "14",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "15",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "16",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "17",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "9",
+		"UserId": "18",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	
+	
+	
+	
+	
+	{
+		"BookId": "10",
+		"UserId": "4",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "5",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "6",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "7",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "8",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "9",
+		"IsOpen": "false",
+		"IsLiked": "true",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "10",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "11",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "12",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	},
+	{
+		"BookId": "10",
+		"UserId": "13",
+		"IsOpen": "false",
+		"IsLiked": "false",
+		"IsReviewed": "true",
+		"ScrollLocation": "0"
+	}
+]

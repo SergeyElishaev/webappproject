@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>BooksForAll</title>
+<script src="lib/jquery-3.2.1.js"></script>
+<script src="lib/angular.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/books4all.js"></script>
+
+<link rel="stylesheet" href="lib/css/bootstrap.min.css">
+<link rel="stylesheet" href="lib/css/bootstrap-theme.css">
+<link rel="stylesheet" href="lib/css/style.css">
+</head>
+
+<body ng-app="books4all" ng-controller="mainController">
+	<header>
+		<nav class="navbar navbar-inverse">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+<!-- 						<span class="sr-only">Toggle navigation</span> -->
+						<span class="icon-bar"></span>
+				        <span class="icon-bar"></span>
+				        <span class="icon-bar"></span> 
+					</button>
+					<a class="navbar-brand" ng-click="setView('view/home.html')"><span class="glyphicon glyphicon-book" aria-hidden="true"></span>BooksForAll</a>
+				</div>
+				<div id="myNavbar" class="collapse navbar-collapse" ng-controller="loginController">
+					<form ng-submit="login()" ng-hide="isUserLoggedIn" class="navbar-form navbar-right">
+						<div class="form-group">
+							<input ng-model="loginUsername" name="username" type="text" placeholder="Username" class="form-control">
+						</div>
+						<div class="form-group">
+							<input ng-model="loginPassword" name="password" type="password"	placeholder="{{pwdPlaceHolder}}" class="form-control">
+						</div>
+						<button type="submit" class="btn btn-success">Sign in</button>
+						<a ng-click="setView('view/register.html')" class="btn btn-primary">Register</a>
+					</form>
+					<div ng-show="isUserLoggedIn">
+						<ul class="nav navbar-nav">
+							<li><a ng-click="setView('view/home.html')" class="">Home</a></li>
+							<li><a ng-click="setView('view/mybooks.html')" class="">My Books</a></li>
+							<li><a ng-click="setView('view/store.html')" class="">Store</a></li>
+							<li><a ng-if="user.Role" ng-click="setView('view/admin.html')" class="nav-el-admin-section">Admin section</a></li>
+							
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li><a ng-click="logout()"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</header>
+
+	<div id="main">
+		<div class="mask"></div>
+		<div ng-include="view"></div>
+	</div>
+
+	<footer>
+		<hr />
+		<p>© 2018 Developed by: Amit Shahar and Sergey Elishaev</p>
+	</footer>
+</body>
+</html>

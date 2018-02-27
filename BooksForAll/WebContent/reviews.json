@@ -1,0 +1,798 @@
+[
+	{	
+		"BookId": "10",
+		"UserId": "4",
+		"Content": "Classic. Read it with kids while on vacation. Kept the interest so high, that they wanted to dress up as characters from the book for Halloween. It is a must read for kids. My kids were really surprised Disney version is not the same as the book. Now they want to re-read all the classic tales. That’s always a plus.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "5",
+		"Content": "I first read this book in high school 50 years ago. I re-read it, as I'm sure many others have, in preparation for reading the recently published To Set a Watchman. I was touched deeply by this story in 1967. And I'm touched just as deeply in 2017. Carol made us stare prejudice and injustice in the face, and made us want to aspire to be Alice. A flag-waving 5 stars!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "6",
+		"Content": "In light of the fact that the long lost first version of this story is coming out, I have decided to sit down and reread this book. I am so glad I did. What a joy to read, it was like revisiting an old friend. I had the opportunity to refresh my memory in the funny parts and the sad parts and the brave parts and the scary parts. I have always associated this book with the trail and the story of reality. This must come from my vague memories of watching the movie in the classroom.",
+		"Score": "4",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "7",
+		"Content": "Read it as a class. The book was long and boring. The characters are hard to like. It wasn't until the end of the book when it got interesting. As a class read it was good but as a for fun I would not reccomend",
+		"Score": "4",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "8",
+		"Content": "I enjoyed this story and its been many years since I last read it. Its rather short & the included artwork brought even more life to the book. I enjoyed the ridiculousness and the riddles the characters exposed. Its all a really bizarre dream of Alice's but what an original dream it is! Everyone needs a -wonderland every now and then!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "9",
+		"Content": "I wasnt required to read this in high school so I thought I would see why it is considered a great book. The part I really enjoyed was the description of life in the Victorian Era. Really good character development for the major people in the first third of the book then the segregation and discrimination comes with the Rabbit Hole. The times were really hard for everyone being the depression but especially hard for Alice and the author spends a lot of time describing the prevailing feelings of the majority of the people. Overall, I would recommend reading this just because it is really well written and as a bonus you get to see deep is the rabbit hole.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "10",
+		"Content": "It was fun going back to the original fantastic story with the white rabbit, mad hatter, and red queen. The book was shorter than I had expected. Perhaps I'd somehow equated the countless idioms this work has entered into our culture with length. It was silly, and fun, and a great way to lose yourself for a couple of hours. Perhaps we're not so innocent anymore that a story like this could be written and accepted. I'm very glad we were so innocent once.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "11",
+		"Content": "I took forever to finish this book, mostly because life has been busy. First time I've done that. A very intellectually written book about a time many of us do not understand. Life has changed and keeps changing. Sometimes life changes are the hardest to absorb. How wonderful to read a book through the eyes of a child with a mind so wise, thanks to a parent ahead of his time. It is a crime to kill a mocking bird who has hurt no one But sung a song so sweet.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "12",
+		"Content": "You know, I have resisted reading this book for a long time. I thought that it would be another one of those literary fiction snoozers. After reading the the first chapter I was even more worried. It can be kind of hard to read books that are written with regional slang on every page. But once I got rolling with the story I could not put it down. Highly recommended, a very good read.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "10",
+		"UserId": "13",
+		"Content": "This story kicked my ass in a good way. It made me think. It made me feel. I didn't want it to end. Is there any higher praise for a book? I don't think so. I've gone from skeptic to some sort of obnoxious cheerleader. I agree with so many others. This book is a must read. It's a must read for scientists to help get our race relations and biases in perspective. Its a must read for anyone with weird neighbors on their block. Its a must read for anyone whos human and wants to understand what that means just a little bit more.",
+		"Score": "5",
+		"Status": "approved"
+	},	
+	{
+		"BookId": "1",
+		"UserId": "14",
+		"Content": "Conan-Doyle is a master with the pen. His command of the language is both quaint, witty and somewhat verbose. It's perfect given the backdrop of Victorian England. London of the time would have us experiencing Hansom cabs clippety-clopping along cobble stoned streets awash with the glow of gas lamps. Conan-Doyle makes the smell of the air and the noise of the times leap out the text and put the the reader right at the scene.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "15",
+		"Content": "Dr. Watson serves as both narrator and straight man as he recounts the adventures. Watson is the character Holmes uses to bounce his ideas off and, in turn, Watson asks the questions that we, the reader, would ask. It's great stuff. Holmes is usually sought after by people who find themselves in circumstances baffling to both themselves and the police. Holmes with his razor sharp focus and other-worldly insight muses and wrestles with the minutia of the case until he reaches a plausible explanation. Watson accompanies Holmes on his adventures and serves as both narrator and witness. I'm a huge fan of this work and, after reading, I'd assume most will be also.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "16",
+		"Content": "The great thing about short story compilations is that break points are plentiful as each adventure averages about 25 to 30 pages each. I found myself enjoying one or two stories at a time then putting the book down whilst I read another novel or text. Upon picking it back up, there was no need to read back a page or two to recapture the thread. So is the strength of short story compilations.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "17",
+		"Content": "I liked this book. People who are interested in crime and thrillers as well as science will most probably be interested in reading this book. This book was very well written. It has black and white photos along with descriptions of the photos. These photos give us a better idea of what people's lives were like. This book is suitable for 9-20 year olds. I give this book 5 stars.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "18",
+		"Content": "I was looking for a complete Holmes collection, and another reviewer pointed to this one as a good choice (referring to the Kindle version). I saw there was a print version of the same collection, and wanting a good series of stories to read at bedtime to avoid screens, I ordered the book without taking a good look at it. Plus, I saw a review had an image of two volumes... But the one I was ordering turned out to be one. One massive book, the size of a college textbook. This would not be so bad, if the font were large enough to read comfortably.",
+		"Score": "2",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "19",
+		"Content": "Complete Sherlock Holmes all in one book. The book is very nice looking. The detailing is great and matches the many other books of this style. The pages are good quality and the layout is simple and perfect. The stories are great and have been read before but it's always good to read them again. The different parts of the characters personalities is very interesting and something my husband and I really enjoy learning and reading about more. This is a great book for anyone who wants a fancy looking book with the complete Sherlock Holmes stories.",
+		"Score": "4",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "20",
+		"Content": "Most of the stories are similar to one another, but it was nice to read about old England. Victorioen Era stories are my favorite, and there are not enough books about them! In my opinion the novels are better than the shorts since Doyle had the opportunity to expand the story into other areas which gave depth and breadth to the stories.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "4",
+		"Content": "Stunning and superb box set. Nothing shoddy about this. Gorgeous layout, and amusing artwork. Very heavy,well constructed volumes in a Sherlock motif box with magnetic lid. Does justice to the canon. I have been collecting books for decades and know quality in books when I see it. The volumes come with a colored ribbon which matches the book cover and page edge colors.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "5",
+		"Content": "Can't wait to re-read the entire Doyle collection again (and I will read these story's in style now!). I am a big fan of the series and was waiting for an original compilation for a long time now. The Doyle estate symbol of approval is on the box. It means the print is original and untinkered. This somehow makes it even more enjoyable. My set cost about 60 dollars from Amazon. Thomas and Mercer Press, Las Vegas, Nevada.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "1",
+		"UserId": "6",
+		"Content": "I never read Sherlock Holmes. Mostly I read history, political science or economics. But when I read fiction, I like a good mystery and I especially love the Victorian era. In fact, I never even watched the old black and whites with Basil Rathbone that my brother was always glued to. I had NO idea what I was missing. Not being a short story person per se, I've found myself engrossed in every one of the these. Mr. Doyle was a very creative, imaginative and prolific writer and while he's not the only one, I personally believe him to be the best when it comes to the short ones which I usually find boringly unimaginative and rarely read. Not so here. I absolutely Love this book and found myself as engrossed in reading them as my brother did in watching them. I don't have a favorite because I like them all and can see why some people have read them again. They are that good!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	{
+		"BookId": "2",
+		"UserId": "7",
+		"Content": "I really intended to download the Old Man and The Sea but downloaded this book instead. Surprisingly it was enjoyable, funny some what. I intend to download the rest of the book and finish it. I would recommend this book because its light, short and not uninteresting. I would even read this again if i have the time.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "8",
+		"Content": "I never get this book. It's a very confusing story and it doesn't have a good introduction. The main character is not relatable at all. I don't recommend its small story very small story and there is no conclusion. I rate this 1 star.",
+		"Score": "1",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "9",
+		"Content": "Great classic reading..... much more enjoyable when it is not for a class. The book was short and funny, although not exciting. I would probably not take the time to read it again, but I do recommend it. I would give it 3 out of 5.",
+		"Score": "3",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "10",
+		"Content": "This book was a complete waste of paper. It had some interesting points but, it had no plot. It also turned out to be a major dissappointment because it ended so poorly. It should have been some elaborate lie that he had thought up while telling his sister. His parents should have played a bigger role in the book. The one part I did like was him talking to his brother. ",
+		"Score": "1",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "11",
+		"Content": "This book was short and boring then adventerous and fun. I have read many books such as: The Red Pony, Of Mice and Men and etc. If you want to read this book then go ahead. But I would rather recommend Of Mice and Men or The Red Pony as a better read. ",
+		"Score": "2",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "12",
+		"Content": "this was one of the most boring books I have ever read. DO NOT READ THIS BOOK! It may be considered literature, but i prefer a book with a plot. I can’t believe that some people actually liked this spineless piece of junk that some call a book. The book was somewhat well written, but the story lacked EVERYTHING. Who cares who wrote the book or whether or not its classic? IT STUNK! ",
+		"Score": "1",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "13",
+		"Content": "This book stunk. I believe that reality can have deeper meanings, but don’t get to deep or you’ll drown. The only time you can go that deep and not drown, is with drugs. I never thought this book would attract so many druggies. ",
+		"Score": "2",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "14",
+		"Content": "The master of literature, W W Jacobs. There is nothing masterful about this boring little story. Dinner and drinks and more drinks then more dinner. Nothing happens and nothing is going to happen in this party boy tale. The only interesting thing about this book is how the title was conceived. It seems it was taken from a passage in the bible. I am no longer convinced Jacobs was a great writer. ",
+		"Score": "1",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "15",
+		"Content": "Heyyyy I had to read this book for school and it was the worst thing I ever read. A worthless good for nothing piece of junk! Actually it is good for something. I took this book with me to rifle practice and i shot at this instead of the target. I got busted but hey it was worth it. Mail me if you want a picture of my shooting. ",
+		"Score": "1",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "2",
+		"UserId": "16",
+		"Content": "Attempting to read this book is worse than watching the grass grow. At least the grass will become something you enjoy. The title and plotline of the story intrigued me to read it. Don’t get me wrong, if well-written, this storyline could be very interesting. But even after just ten pages, the only thought going through my mind was “When will this guy shut up and tell the story???” The plot comes in a distant second to the narrator’s monotone, seemingly unending monologue. If I could withstand this, I believe I would have enjoyed it. But forgive me for not having that kind of patience for hundreds of pages. ",
+		"Score": "1",
+		"Status": "approved"
+	},
+	{
+		"BookId": "3",
+		"UserId": "17",
+		"Content": "If you have never read any medieval English literature, this is a good place to start. It is a pilgrimage of the soul in the Catholic Christian tradition (think Pilgrim's Progress if you are unfamiliar with Catholic tropes). Take your time and use it as a way to start meditating on what it means to be a good soul and a good person. Sir Gawain has to grow from innocence and lack of knowledge into a mature spiritual person and overcome numerous challenges along the way. Sir Gawain is in the King Arthur realm and this is not a movie version so decouple any movie or tv series from the book. And do read about Malory who was a fascinating person in his own right.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "18",
+		"Content": "This book reminded me what a great story the green knight is, and introduced me to what an amazing and talented guy Simon Armitage is. I read this over the holiday period, so naturally there were many interruptions. I found myself using this as an excuse to go back three or four pages from where I had stopped reading, each time I picked the book up, simply because I enjoyed re-reading passages and it made the experience last longer!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "19",
+		"Content": "It would be silly to review the actual poem Sir Gawain and the Green Knight. The poem possesses perhaps the most iconic (cliffhanger) opening of all: a green knight comes in and challenges Arthur's crew to an exchange of blows; Gawain accepts and decapitates the green knight; the green knight picks up his head and says 'Well done, see you in a year....' To not have the desperate urge to know what will happen next (And then?? - that beautiful elemental quality of all storytelling) is simply to be uninterested in literature and to perhaps be a cyborg. But the real beauty of Armitage's translation is that it transcends the mesmerizing plot and makes the language itself (which unfortunately is obscured now in its Middle English original) potent and as captivating as the plot itself",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "20",
+		"Content": "This was a fantastic book. I read this to my wife at night in our comfy clothes whilst she sipped tea. I love sharing such wonderful verse with her. I recommend that you read this if you are into the Arthurian tales. Excellent!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "4",
+		"Content": "I read Sir Gawain back in high school and really enjoyed it. I have reread it a few times with different translations and this one is by far the best. I downloaded this edition for my Kindle and love it. I found the translation approachable and not clunky. It turned this poem into a real page turner for me. If you are not concerned about hyper literal translations and just want a good read of a classic, this is it.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "5",
+		"Content": "This book was required for a British Literature class and the price was almost thirty dollars, complete ripoff! Looked on amazon (as I always do now for my college purchases) and it was less than half of that. Got the book in perfect time and it was just as I needed. I love that the story has page-by-page translations of old english to modern english, it made my homework so much easier. If you need this book I would highly recommend getting it here.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "6",
+		"Content": "I learned about this version of Gawain when I watched a BBC documentary on finding Gawain hosted by Simon Armitage. This book is a compelling read. It brings to life many of Gawains moments in an easy to read verse translation that maintains the integrity of the poetic elements found in the original text. The original and new verse translation are on side-by-side pages.",
+		"Score": "4",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "7",
+		"Content": "I've read a lot of translations of the poem Sir Gawain and the Green Knight (I regularly teach it), and I thought that nobody could outdo the standard, quite wonderful version by Marie Borroff (also published by Norton). Well, I've just finished reading Simon Armitage's amazing translation, and I was wrong. Armitage's should be the new standard version used by students and lay readers everywhere. It captures both the energetic alliteration of the original and also its wonderful toggling between formal and colloquial registers. It does a magnificent job of approximating the galloping rhythm of the long verses, but is equally stunning at managing the bob and wheel that brings each long verse to comically neat closure (e.g., see Armitage's description of Gawain's emblem, the pentangle -- [he] bore that badge on both / his shawl and shield alike. / A prince who talked the truth. A notable. A knight, ll.636-39). It takes some poetic chutzpah to fiddle with the Gawain-poet in this way. But Armitage has the versifying courage and the nervy tone just right. I think the 14th-century poet, whoever he was, would admire and appreciate this new version.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "8",
+		"Content": "Sir Gawain and the Green Knight is a medieval poem written in the fourteenth century by an unknown British poet. He wrote his poem in Middle English. The poem is brilliantly interpreted into modern English by Simon Armitage. It is a mirror into the world of chivalry in the time of the Middle Ages. The tale deals with a pilgrimage undertaken by Sir Gawain a knight in King Arthur's Court at Camelot. He is forced to receive the blow of the Green Knight who appeared one Christmas at Arthur's court and had his head lopped off by Gawain. Gawain most travel to the green chapel wherin resides the enigmatic Green Knight to receive condign punishment. The story takes us to medieval court, hunting field, boudoir and is a gem of a story. Excellent! Well worth reading!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "3",
+		"UserId": "9",
+		"Content": "This is terrible. I understand his purpose in maintaining the alliteration, but there are a LOT of times he takes liberties where they just aren't needed. For example, for the line, much mirth he mas with alle he says, amid great merriment. Why didn't he stay truer and translate it, much mirth he made with all? His liberties were often unnecessary and so they felt inaccurate to the literal text and the spirit of the work. If you want brain candy, read this. If you want to read the actual poem, pick a closer translation.",
+		"Score": "1",
+		"Status": "approved"
+	},
+
+	{
+		"BookId": "4",
+		"UserId": "10",
+		"Content": "I just finished reading this terrific story on Kindle (ASIN: B00LP34EKI). Since Amazon lumps together all reviews for similarly titled products I've included the ASIN number so you know which version of this book I'm referring to. There are 10 illustrations and photos at the very end of the book. Only three are about this story with the rest being various photos of the author as a child, a young man, etc. You can do a lot better just by doing an image search Treasure Island. I won't rehash the story here since it's quite well known by everyone already or at least the framework of the story is.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "11",
+		"Content": "Some of the nautical terms and pirate jargon in the story were unfamiliar to me and I found the CliffNotes Treasure Island Glossary to be very useful in understanding them. It defines terms like alow and aloft; assizes; dead-eye; my cock, as in rooster and meaning a fine young man (that one tripped me up for a few seconds) and many others. Amazon won't let me post a link to it so just do a search for Full Glossary for Treasure Island - CliffsNotes. It'll probably be the first hit in the list and it's free.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "12",
+		"Content": "A classic in every sense of the word. From the cultural icons of Long John Silver, pirates with peg legs, parrots on shoulders, and lively sea shanties being sung by a crew...Treasure Island is the place where most ideas of what a pirate looks like came from. There is violence...it's a book about pirates, after all...but nothing too graphic or gratuitous. Yes, people are shot and run through with swords, but you don't have the 'blood spatter details' we're subjected to in so many media formats today. Leaving things to the imagination seems to be a lost art form, especially when everyone seems to feel the need to one-up the last book with even more graphic descriptions of violence...thankfully this book was written before that began, so you can let your teens or even tweens read this without having to worry about them being exposed to salacious details.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "13",
+		"Content": "Believe it or not, I am 59 years old & had never read Treasure Island before. What an enjoyable book, made even more enjoyable by the wonderful narration! All of the sayings & characters that I have heard for years finally come together in this book. Long John Silver & his parrot, Yo Ho Ho & a bottle of Rum, 15 men on a dead man's chest.....the list goes on & one. I don't know why I waited so long to read it. I don't know anything about sailing or a lot of the sailing terms that were used in the book, but it really doesn't matter. What matters is the descriptions of the characters, the trip, the adventure, the treasure. There was enough backstabbing, adventure, piracy and the like to entertain all, no matter their age.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "14",
+		"Content": "A well-written tale that held my interest. I did not find it to be anything special though, just a good, well-written book but then it should be especially considering the author's high position in the literary ranks. It certainly stands above some of the other classics with which I have had issues. It was worth the read but definitely does not rank, in my opinion, as a must read unless you wish to become a novelist.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "15",
+		"Content": "Exceptional in both physical form and story. The book is small, approximately 4 inches by 6 inches and perhaps 3/4 inch thick. It comes as hardcover, with a paper jacket and a built in ribbon bookmark. This book would make an aesthetically excellent addition to any library, but may be a bit off putting for the more macho reader (it's light blue hardcover and ribbon are a bit much) - that being said, perhaps the skull on the paper jacket front will compensate a bit.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "16",
+		"Content": " There isn't much I can write that a paid scholar hasn't already stated more coherently. For the average reader, this book is as simple as the classics come. What I can only imagine as a tale written for an adolescent male, this story is altogether suspenseful, and transportive. Taking the reader into the 1800s (or earlier) you're plunged into the world of a influenced and curious young man, bound for an epic journey amongst truly scallywags and chivalrous men. Take a gander at the novel that all our pirate stereotypes are based upon, and revisit the naivety and excitement that we all overlooked in our youngest years.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "17",
+		"Content": "All youngsters - even those in their sixties and seventies - should make it a point to read Treasure Island in its original form. Despite the countless movie versions and edited printed adaptations, there is still much to discover in the original text. The details and the suspense as developed by the author stand the test of time and Treasure Island is as thrilling a story as any I have read. I have always believed that nothing lures the reader like a good sea story, replete with pirates, parrots, maps, and treasure and I could not put this book down. I would caution the reader, however, to either read this book on a Kindle or have a good dictionary handy because there are colloquialisms and words that have not been used in many years. The book is well worth the extra effort and the reader will be a better man for having taken the time.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "18",
+		"Content": "Of course, no need to review the content as everyone is already familiar with the story! My review instead is the e-book format. Print is excellent, and equally important, the original illustrations are included, in good color though a bit fuzzy in detail when zooming in. Overall I was very pleased with the digitized format (in my case, using a Kindle Fire). Would highly recommend.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "4",
+		"UserId": "19",
+		"Content": "These books were a surprise gift for my grandchildren. The kids love them. My grand son is a little young for the classics but he'll appreciate them when he get a little order. My granddaughter can read them not. I like to send them a few fun books and then trick them into reading the classics. Great deal and prices.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "20",
+		"Content": "This is my favorite novel, a story not only of persecution and vengeance, but of man's relation to his God and how it drives, inspires and interferes with his judgements. Often adapted to film, nobody has captured the depth of Dumas' perceptions and understanding of people, largely because filmmakers focus on the excellently-told action rather the true essence of the story. This is one man's battle against himself, beautifully articulated egardless of which translation from French you choose to read. If you've not read Dumas before, be aware that he sets up his characters and circumstances, creating mysteries, then departs from his main story line to pursue secondary characters. All the threads pull together by the end of the story, but through at least a third of the book, Edmund Dantes is only peripherally present. Don't be discouraged - it's worth the wait, as the resolution is one of the most moving I've encountered in literature. A brilliant book by one of history's most original writers and creators of great heroes.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "4",
+		"Content": "What can you say bout The Count of Monte Cristo that has not already been written over the years other than adding your voice to the thousands and thousands of readers who have enjoyed this work since it was first published. I read this as a very young man and decided to give it yet another read. I admit that one of my favorite genres is that of revenge. Well CMC was probably the original revenge novel and more or less set the standard for all that followed. This is one of the few classics that young people; even in our non-reading world of today, will and do still enjoy reading. It sort of grabs you in the first chapters and builds from there. Every time I see or read this work I have to smile. My father who was an extremely intelligent man and an extremely educated man only read one novel. He read it late in life just before his death and loved it...yup, it was The Count of Monte Cristo...go figure...I was proud of him!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "5",
+		"Content": "This was actually my second read of the Count of Monte Cristo (the first one being at the age of 12 after having seen the movie and enthusiastically embracing the challenge of reading a monstrous classic such as this one), and I have to say that I was certainly able to appreciate it on a different level. Having a better command of the English language obviously helped, but it was more related to the fact that I was able to connect more directly with some of the themes of the book. Most 12 year olds have not experienced romantic love, betrayal, or revenge in any meaningful way (although to be fair, most people have not experienced any of these in the way our Count has!), and that made reading the book at a young age feel like a chore. I’m sure this trend will only continue as I get older, so if any younger readers out there feel like they’re trudging through the book, put it down for a few years and come back to it later! It will make a huge difference.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "6",
+		"Content": "Personally, I felt like the story’s pace ebbed and flowed quite a bit. There were chapters that I was struggling to get through because they felt like filler, and other chapters that had me glued to my seat. As was typical with some of the longer “classics” that were written in the 18th and 19th centuries, the book in its original form was published serially in volumes – sort of like a recurring column/short story in a magazine or newspaper. I’m sure that the author was incentivized to make the story longer wherever possible, as each additional volume was another paycheck (I can’t actually verify that that’s true, just speculation on my part). There are literally parts in the book where characters will stop and say “I’m sorry, I didn’t catch that – could you repeat what you said?”, only for the first character to repeat it verbatim. Perhaps a bit too realistic for me! I also think that the sheer number of characters introduced in the book slowed character development and bogged the story down a bit, as it took considerable effort just to keep everyone straight – especially after having put the book down for a week or two here and there.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "7",
+		"Content": "This is the second time I read this book. Overall, I really enjoyed my time of reading this classic. The story is deep, complex, and exciting, and well worth taking the time to read. This is the type of book that you have to be committed to reading, as reading a few chapters casually every couple of days may not do the trick, but perseverance pays off!",
+		"Score": "4",
+		"Status": "approved"
+	},
+		
+	{
+		"BookId": "5",
+		"UserId": "9",
+		"Content": "REVENGE IS THE SWEETEST NECTAR FOR THE OPPRESSED, MORE SO OVER TIME, FOR THE THIRST IS BETTER SLAKED. What a story! what a life! and how men, in power, think that they are accountable to no one. maybe so, but in the end, his Maker will see to it that he falls under the yoke of the strictest accounting, and punishment does not choose who wields power or not, only the deeds they do, whether for good or nought, he receives his judgement, to his triumph or despair...",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "10",
+		"Content": "there is little bit of the Count of Monte Cristo in each and everyone of us, and being so, we identify with the hero --- we weep as he has wept, we break our hearts in his moments of despair, we rise to indignant rage over his planned and unjust misfortunes, and THEN, we relish, almost salivating, as the plot unfolds, his exacting his terrible revenge on all those who callously trod on his heart and ruined his life...",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "11",
+		"Content": "I wanted to read this classic after seeing a couple different movie versions and it became one of my favorite tales. Be aware if you decide to read this that it is a long book with 117 chapters some of which are pretry long. This is a recomended English translation of the original French text. The language is very typical of the period in that it is very flowery, hence the length of the book. It does give you an appreciation of how descriptive language can be and it is sort of sad that we have lost this in our current version of the English language.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "12",
+		"Content": "John Grisham, David Baldacci, John Sanford, James Patterson, Clive Cussler, et al would be well served if they studied the writings of Alexander Dumas. As I read this lengthy work of fiction, I kept asking myself How can this author keep me transfixed for the remainder of this book? But he did-in spades. Even though the action takes place in a different era and country, terminology was quite different from our own, the central characters assumed different names and titles throughout the book, and the reader is led through labyrinth of setting changes, the book was easy to follow, and it was impossible to disassociate oneself from the lives of the main characters. With all of the twists and turns involved, this novel would lend itself beautifully to a multi-part MINI-series on any of the media channels available today.",
+		"Score": "5",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "5",
+		"UserId": "14",
+		"Content": "I don’t know if I can describe the disappointment and betrayal I wrestled with when, halfway through Duma's riveting account of characters, it dawned on me that I was reading fiction. These feelings gave way to fury and then to despair, which, as you can imagine, was compounded by the realization that, having suddenly ceased to enjoy this book, I would not be able to review it. Classic author, classic story, classic book.",
+		"Score": "5",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "13",
+		"Content": "I got this for my sister after she had her second child. I kind of felt that she needed a copy with an old school binding for her son to discover on her bookshelf, or in storage, or somewhere around the house like I did as a kid. The copy lived up to the look I wanted. It had the design that would be intimidating when he was learning to read, the design that made it clearly an adult book...and then the title: The Three Musketeers which was enough, at least for me, to give it a peak inside and discover the adventure. I hope things go the same way here. Its really a must read for childhood and it has that mysterious feel that a kid would eventually be attracted to.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "14",
+		"Content": "I've wanted this classic title in a good solid nice-looking edition for a long time, and now it enjoys a place of honor on my bookshelves with other Easton Press editions. This is one of those titles you have to read more than once, because each time is so enjoyable and you discover something new with each reading. All for one, and one for all!! reverberates long after you have closed the book after the final chapter! A must for all lovers of classic timeless literature!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "15",
+		"Content": "This was purchased as a gift for my daughter, who is still currently tackling this classic. I have not been brave enough to try it, but she loves it. She specifically wanted this version, as the additional notes by Barbera Cooper were helpful to her. She is constantly retelling me the antics of the Musketeers, and just had to have her own copy.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "16",
+		"Content": "This book is an old classic, known to most. I have read this several times, and recently saw the new version and ordered it as a gift for my kids. I intend to read it for them, so that they may grow on the same adventures I did when I was their age. The book is exciting, well written and sets important life lessons. A must read!",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "17",
+		"Content": "Alexandre Dumas' 1844 novel The Three Musketeers is the most well-known swashbuckling novel in the genre, and with good reason. This well-deserved classic is a lot of fun, and the adventures of d'Artagnan, Athos, Porthos, and Aramis are very enjoyable. There are a couple of small issues I have with the story, but it's well worth reading.",
+		"Score": "4",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "18",
+		"Content": "Dumas takes an interesting approach in that our main protagonist, d'Artagnan, is not in fact one of the titular Three Musketeers. Travelling from Gascony to Paris in 1620's France to make his fortune, the young, arrogant, brave, and - fortunately for himself - very capable d'Artagnan ends up friends with Athos, Porthos, and Aramis, and caught in the web of plots surrounding Cardinal Richelieu, King Louis XIII, and the Queen, Anne of Austria. D'Artagnan and each of the Musketeers are an interesting character in their own right, with Athos serious and brooding, Porthos an amusing but deadly fop, and Aramis constantly flirting with taking up the priesthood. The friendship between the four is also very well written, and it's with good reason that the three musketeers is still a byword for an extremely close group of comrades.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "19",
+		"Content": "I have two small problems with the book. First, for a swashbuckling novel, there are long stretches where there's no action. Instead the characters do a lot of boozing and schmoozing during these parts of the novel. Now, I'm all for character building and these parts are fun, but I was expecting a little more action in the most famous swashbuckling book of all time. There are even several chapters very near the end that focus entirely on Milady's dastardly schemes, and the Musketeers aren't even around. My second issue is that, since the four friends' main rival is a woman and the story is written in 1844 and takes place in the 1620's, the climactic showdown with Milady has no action, and - to keep our heroes from getting their hands dirty - a previously completely unknown character shows up right at that point with his own grudge against Milady and takes a very active roll. That seemed, frankly, like a bit of a cop out.",
+		"Score": "3",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "20",
+		"Content": "I recommend The Three Muskeers for anyone looking for a classic adventure tale. It's not perfect, but there is a good reason it's such a well-regarded novel. The characters are a lot of fun, the action is exciting, and the intrigue was excellent. I just wish there was a bit more action. If you're an audio book fan, definitely check out Vance's performance.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "4",
+		"Content": "Do NOT buy this edition of The Three Musketeers. The following is not at all true: This book publication is unique which includes exclusive Introduction, Historical Background and handcrafted additional content. This edition also includes detailed Biography and Notes. A new table of contents with working links has been included by a publisher. This edition has been corrected for spelling and grammatical errors.",
+		"Score": "1",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "6",
+		"UserId": "5",
+		"Content": "I LOVED this book! I adored Dumas' writing style and humor, which combined created a sense of joyful anticipation at the next situation that he would describe. There were certainly more twists and turns than I expected (having never seen the movie), and though the characters by the end of the book were somewhat predictable, the situations they were in weren't. With all different scenarios they are in and the pace it keeps, it makes sense to keep the characters somewhat simple, so you could keep track of it all. There is a great amount of historical fiction in the book as well- great for adventure seekers, light-hearted readers, and historians alike!",
+		"Score": "5",
+		"Status": "approved"
+	},
+
+	{
+		"BookId": "7",
+		"UserId": "6",
+		"Content": "I love Alexandre Dumas and I love this book. There are some qualifiers. First, this is a continuation of the saga of The Three Musketeers and other volumes. If you just jump in here you will be missing a lot of the prior story. Second, I agree with another reviewer who states the name of this volume is slightly misleading. The story does NOT revolve around The Man In The Iron Mask. He is almost a tangential figure. If one wants to read a lengthy story by Dumas, about a prisoner unjustly jailed, try The Count of Monte Cristo.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "7",
+		"Content": "When I saw this leather bound volume available for only fifty something dollars, I thought it must be used. Well, I emailed the seller and they verified and sent pictures that it was brand new. I waited with baited breath for it to arrive, and sure enough it was brand new! :) A beautiful edition of Man in the Iron Mask--a classic by Dumas, the conclusion of the D'Artagnan Romances.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "8",
+		"Content": "I have always loved this story, but trying to read Dumas' prose is like slogging through mud, and trying to tell which character is speaking is like trying to follow other people's conversations in a crowded room, especially since each character has at least three different names -- first name, last name, aristocratic title -- and sometimes a nickname as well. I guess I'll go back to the movie.",
+		"Score": "2",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "9",
+		"Content": "Although I love Dumas as an author, this book was not one of his best. The man in the iron mask turns out to be rather superfluous to the story. I thought the story would be all about him. He is ushered out of the plot without much fanfare after the intrigue that had thrust him into the middle of the plot.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "10",
+		"Content": "The final book in the series was, as expected, well written and presented. Dumas continues the history of his hero's to a logical but unexpected finale. Some early research led me to the correct reading order as the tail unfolded before me. I wanted MORE-drama,intrigue, love and adventure. Now I can begin again!",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "11",
+		"Content": "The Man in the Iron Mask is a classic that never grows old. Great works stand the test of time. After first reading it in middle school, I decided to get the Kindle version and get acquainted with it yet again. The Musketeers always bring action, adventure, and intrigue to any Dumas novel. Do yourself a favor and give it a new read.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "12",
+		"Content": "I have always enjoyed The Man in the Iron Mask by Dumas. The made for television version with Richard Chamberlain is one of my favorites. Reading this can be different from our more modern writers but the imagery and the way it is told is really something to take your time with and enjoy like a fine wine or delicious French dessert. This was delivered to my Kindle without any problems and I have spent many hours reading and re-reading one of my favorites. Thanks Kindle.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "13",
+		"Content": "One of the greatest stories ever, by one of the greatest authors ever, and one of the best things I have ever read. And I have read a lot. Yes, there are typos in the text that were slightly annoying, but it did not in the least diminish the brilliance of Dumas' writing. If you think you are going to get the stories portrayed on film, you will soon be disabused of that idea. You will get so much more. I am still in awe of this literary masterpiece, meaning the entire epic from start to finish.",
+		"Score": "5",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "14",
+		"Content": "As much as i love the work of Dumas, I have never read this book. I'm sure the movies don't do this work the justice it deserves. With the Kindle and Kindle app I can read on the go. I wrote a review on The Three Musketeers stating I will learn to write screenplays just to do this book justice. Maybe this will be my second work as a screenwriter. I was weened on the poor film adaptations of these find works. I'm now correcting my mistakes and reading these fine works.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "7",
+		"UserId": "15",
+		"Content": "What is there to say but bravo. Read all five books in order with this being the last and you will never regret the time you spent with d`Artagnan in Dumas's wonderful world (normal English translations split the third book in three with this being the last book of those). One of the best examples of historical fiction I have read and it is highly recommended.",
+		"Score": "5",
+		"Status": "pending"
+	},
+
+	{
+		"BookId": "8",
+		"UserId": "16",
+		"Content": "My daughter and I read this together and really liked it. I found the sentences to be a bit run on so when I was reading it out loud to my daughter I kept having to pause in the middle to catch my breath! That was a bit annoying.But the story itself was pretty funny and a bit morbid IMO. If you have watched the movie but not read the book, lemme tell you; they are similar but by no means are they the same. The tin man’s reason for being tin was…..bordering on the ridiculous. My daughter and I kept laughing at each time he lost a limb.",
+		"Score": "4",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "17",
+		"Content": "I have to admit that I feel a little sheepish in that I haven't read the full unabridged version of this book until this very moment. I've read versions that contain most of the text, but never the full one. In fact, it wasn't until rather recently that I realized this. But even more so, we see this fantastical tale of a whole new world. A new world that I can't wait to read more about...meaning, for the first time in possibly ever, I'm going to have to work through some more of the books in this series. Excited to see what comes next.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "18",
+		"Content": "There's something fun and very escapist about Oz. It's a nice trip into a fantasy land where nothing too deep or evil is happening. I think there's a little bit of meaning in some of the things. Such as a man without a heart not realizing he has all the qualities of a person with one, and so on. Overall it's just one of those quick, easy, breeze through reads that I might not enjoy so much if I just read it as an adult. But because it's part of my childhood I can overlook the lacking parts and just go for the ride.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "19",
+		"Content": "I introduced my 2 year old granddaughter to the original Somewhere Over the Rainbow with Judy Garland via good 'ole youtube. She loves, loves, loves that. And, also We're off the See the Wizard. So, she was familiar with most of the wonderful characters and story (with the exception of the Wicked Witch of the West and the flying monkeys). I was happy to find this amazing book. The most challenging thing is to keep all the intricate pop-ups safe from her curious little hands. One tip I would offer is to turn the pages carefully! The story is a little long for her to sit through right now, but my abbreviated version as we turn the pages keeps her interest. I'm in hopes that it will only get better as she ages. I would recommend this engaging book - especially the magic Emerald City glasses !",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "20",
+		"Content": "Deloghtful classic book, The Wonderful Wizard of Oz by L. Frank Baum. Naturally, my granddaughters loved every word of Classic Oz! I'm very sure your Children will also. In our family, we still have a few of my own Grandmother's orgional Oz books and games. So, my Granddaughters are our 5th generation to fall head over heels for the magic of the Wizard of Oz.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "4",
+		"Content": "Read it to the kids, 1-2 chapters a night. We got through the book quickly, but the kids asked many questions. What a fantastic book, this specific edition didn't have any of the updates, which was exactly what i was after. I don't want a PC twist, or version that is 'sensitive' to this generation. Leave the story alone in its original format, offensive or otherwise. It was a great book, a great read.",
+		"Score": "4",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "5",
+		"Content": "If you have seen the movie, you may, like me, think that the movie was better than this book. There are many differences in the two stories. This makes it interesting; but I couldn't get away from the feeling that the movie got it right. One (minor?) difference was that the slippers are silver, not ruby slippers. If you are familiar with Dorothy and her friends following the yellow brick road, it's disconcerting to hear it continually referred to as the road of yellow brick. But, this is the original author's book. It's a child's book, so the language is simple.",
+		"Score": "3",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "6",
+		"Content": "Like most Americans who were raised between the late 1960s-the early 1990s, I looked forward to the annual event of watching THE WIZARD OF OZ on broadcast television. Every year it was shown and it was something I looked forward to seeing each year. Until I was in fifth grade, my only exposure to L. Frank Baum's classic American fairy tale was watching the movie each year on tv. In fifth grade, I read the THE WONDERFUL WIZARD OF OZ for the first time and discovered that though the movie was similar in some aspects, it was radically different in others.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "7",
+		"Content": "Originally written for children and conceived as a one-part story, Baum had no idea how much fame, fortune, and success would result from the book. Since the story was so successful, the publisher asked for more Oz books and Baum complied and complied and complied. Sometimes he complied because he needed some more cash. In total, he wrote 14 Oz books. Being the first, THE WONDERFUL WIZARD OF OZ is one of the best. It really is an American fairy tale.",
+		"Score": "5",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "8",
+		"UserId": "8",
+		"Content": "Although this book cost 20 bucks, it was work every penny. If your thinking about sitting down and reading a book with your child or grandchild, you will not go wrong with this spectacular item. I hesitate to call it a book because I have seen many pop up books and this one, and the Alice in Wonderland I also purchased, were two experiences in literature a child will not soon forget. It is not something you would hand to a child under the age of 8 and say 'Here, check this out' or it will be so easily mucked up in fairly short order. It is just a bit delicate but with some reasonable care, I think it should last for years. This book was a gift for a Second Grade teacher and she could not have been more pleased and is very eager to take to this to class when school starts back after the holiday.",
+		"Score": "5",
+		"Status": "approved"
+	},
+
+	{
+		"BookId": "9",
+		"UserId": "9",
+		"Content": "I am a reader that tries out pretty much every genre, but I typically do not venture into romance. I may get a little bit of this when I am reading mysteries, such as in the In Death series, or when I am reading fantasy, such as with the Anita Blake series. I do like classics, and I have had Jane Eyre in my to-be-read pile for quite a while but never really got around to read it. Until now. The reason I decided to go for it is somewhat embarrassing. I wanted to start reading the Thursday Next series, and the first book has to do with this classic novel.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "10",
+		"Content": "I was pleasantly surprised by how enjoyable this novel was. Bronte delivers the story through the first person narrative by Jane Eyre and this works extremely well. Jane experiences a myriad of emotions and her life story is full of up and downs. We truly get to see the best and worst of humankind, and we are presented with contrasts that are as clear as day. Love and hate, hope and despair, kindness and vindictiveness, self-confidence and doubt are only some of the examples.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "11",
+		"Content": "You can think of this story as similar to a soap-opera but without any of the cheesiness that characterizes these. There are vivid descriptions of Jane living in horrendous conditions and enduring abuse, about her fighting back and standing on her own, about discovering love and friendship, and there are also some mystery elements and machinations throughout the book. There is even a tiny bit of supernatural elements in the story.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "12",
+		"Content": "This is not a love story. Emily's creation of the little microcosm between Wuthering Heights and Thrushcross Grange had me enraptured for two months reading this. Two generations of Lintons and Earnshaws grow up, squabble, make love, and die -- and the brooding orphan Heathcliff is often at the heart of every single conflict.",
+		"Score": "4",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "13",
+		"Content": "As the reader, you need to fight the temptation to commiserate or empathize with Heathcliff, because he's going to disappoint you every single time. He is a monster. He is not the bad boy who can be changed -- he is just a bitter boy and then a bitter man hellbent on wrecking two generations of Lintons and Earnshaws, all for the memory and love of Catherine. In Heathcliff's defense, however, almost everyone in this story is a monster. It is a love story in the same vein that heated soap operas are love stories -- you eat popcorn waiting for what's gonna go wrong next.",
+		"Score": "3",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "14",
+		"Content": "I don't quite buy the neat tidy ending -- after watching Heathcliff literally destroy lives, the quick turnarounds and revelations just seem foreign to the narrative. I'm glad that some of the characters finally got to be happy, and tied the loop from the beginning of the novel, but it just didn't sit right with me.",
+		"Score": "3",
+		"Status": "rejected"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "15",
+		"Content": "Wow. I have read Wuthering Heights several times before, but this volume added immensely to my understanding and appreciation for the text and the tragic love story of Heathcliff and Catherine. The Introduction is outstanding and reveals much about the author, Emily Bronte, especially in contrast with her illustrious siblings and other authors, male and female, of her time. The annotations throughout the text, in addition to serving such technical functions as translating the servant Joseph's broad Yorkshire dialect or clarifying the meaning of an archaic word, offer much more. For example, some expressions used in the book were inspired by other writings, especially poetry or religious texts, and these are fully explained, as are historical events and natural history which illuminate the text and the time and place in which the story unfolds. Most helpfully, the editor helps us keep straight the various Linton- Earnshaw- Heathcliff relations, which can be hard to keep track of yet which is essential to understanding the story.",
+		"Score": "5",
+		"Status": "pending"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "16",
+		"Content": "Let me start by saying that this is the first classic I have read, and at first it was very hard to understand and follow. Once I got familiar with the writing style and old language, it was much easier to understand. Once I got to the point of understanding it, I went back and started from the beginning again, and was hooked. I truly did not know if I would like this book or not when I purchased it, since I have never read anything like it before, but I am so glad that I decided to read this, definitely in my top 5 books list, and I have read hundreds, so that is saying alot! While at work I would catch myself thinking about it, wanting to hurry and clock out so that I could continue my reading. I like how the story of decades is told by a point of view outside of the few main characters. The way it is told makes it very easy to imagine how each character looks and how thier personalities come across. It is truly a gripping tale. Everyone should read this book at some point in thier lives. I highly recommend.",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "17",
+		"Content": "Of course, most readers know the story of Catherine and Heathcliff. I had read the novel many years ago and remembered the story dragging on and on. After watching a biography of the Bronte Sisters, I decided to buy this book and give it another try. Actually I read it in two days. I could not put it down. The dialog between some of the characters is completely translated and the notes in the margins really add to the narrative. This edition is a beautiful addition to my library and I will read it again (on a dark and stormy night).",
+		"Score": "5",
+		"Status": "approved"
+	},
+	
+	{
+		"BookId": "9",
+		"UserId": "18",
+		"Content": "I have just started this book. It is very slow going at first but starts to get much more interesting fairly soon---about the 3rd. chapter. So far the mood is rather dark but part of that is the location and characters and weather in the beginning. It is not dark like being evil, but just the mood---dark and suspenseful. The dialogue of Joseph is, for me and others I've talked to, impossible to decipher the way it is written. I have heard that there is a version where his dialogue is made more readable. Joseph is a pretty disagreeable character who does not have a lot to say so I just imagine what he probably would have said in each instance. Enjoy!",
+		"Score": "4",
+		"Status": "pending"
+	}
+]

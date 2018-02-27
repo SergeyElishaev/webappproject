@@ -1,0 +1,59 @@
+<div class="store-page jumbotron" ng-controller="booksController">
+	<div class="container">
+		<h2>All available eBooks</h2>
+		<p></p>
+		<div class="store-all-books">
+			<div ng-repeat="book in books" class="store-book-wrapper">
+				<div class="book-id-{{book.BookId}}">
+					<div class="store-book-title">{{book.Name}}</div>
+					
+					<div class="store-book-image"><img ng-src='{{book.ImageUrl}}' /></div>
+					<div class="store-book-description">{{book.Description}}</div>
+					
+					<div class="store-book-button-area">
+						<div class="store-book-likes" ng-click="toggleLikesTooltip(book.Id)"><span class="glyphicon glyphicon-thumbs-up"></span>{{book.Likes}} Likes</div>
+						<div class="likes-tooltip-div store-book-likes-tooltip-{{book.Id}}"><ul class="store-book-likes-tooltip"><li ng-repeat='like in book.LikesList' ng-click="showUserInfo(like.UserId, book.Id)">{{like.UserNickName}}</li></ul></div>
+						<div class="store-book-reviews" ng-click="showBookInfo(book)"><span class="glyphicon glyphicon-bookmark"></span>{{book.Reviews}} Reviews</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="mybooks-book-info">
+			<div class="close-book-info-button" ng-click="closeBookInfo()">x</div>
+			<div class="mybooks-book-info-content">
+				<img class="book-info-img" ng-src='{{bookInfo.ImageUrl}}' />
+				<hr />
+				<div class="book-info-existing-reviews" ng-repeat="review in bookInfo.ReviewsList">
+					<p>Reviewer: {{review.ReviewerNickName}}</p>
+					<span ng-show="{{review.Score>4}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>3}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>2}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>1}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>0}}" class="glyphicon glyphicon-star"></span>
+					<p class="book-info-review-content">{{review.Content}}</p>
+					<p class="book-info-review-date">{{review.Date}}</p>
+					<hr />
+				</div>
+			</div>
+		</div>
+		
+		<div class="user-info-window">
+			<div class="user-info-image">
+				<img ng-src="{{userInfo.PhotoURL}}" />
+			</div>
+			<div class="user-info-list">
+			<ul class="user-info-list">
+				<li><span class="list-label">Nickname: </span>{{userInfo.Nickname}} <span ng-if="userInfo.Role" class="admin-user-admin-label">(Admin)</span></li>
+				<li><span class="list-label">Username: </span>{{userInfo.Username}}</li>
+				<li><span class="list-label">Descriptin: </span>{{userInfo.Description}}</li>
+				<li><span class="list-label">Email: </span>{{userInfo.Email}}</li>
+				<li><span class="list-label">Phone: </span>{{userInfo.Phone}}</li>
+				<li><span class="list-label">Address: </span>{{userInfo.AddrStreet + " " + userInfo.AddrNumber + ", " + userInfo.AddrCity + ", " + userInfo.AddrZip}}</li>
+			</ul>
+			</div>
+		</div>
+		
+		<div class=""></div>
+	</div>
+</div>

@@ -1,0 +1,80 @@
+<div class="mybooks-page jumbotron" ng-controller="myBooksController">
+	<div class="container">
+		<h1>My eBooks</h1>
+		<p>Here you can see the books you own</p>
+		
+		<div class="my-books-collection">
+			<p class="warning-message">{{noBooksWarning}}</p>
+			<div ng-repeat="book in books" class="store-book-wrapper">
+				<div class="book-id-{{book.BookId}}">
+					<div class="store-book-title">{{book.Name}}</div>
+					<div class="store-book-image""><img ng-src='{{book.ImageUrl}}' /></div>
+					<div class="store-book-description">{{book.Description}}</div>
+					<div class="store-book-likes"><span class="glyphicon glyphicon-thumbs-up"></span>{{book.Likes}} Likes</div>
+<!-- 					<div class="store-book-likes-tooltip"><ul class="store-book-likes-tooltip-{{book.BookId}}"><li ng-repeat='like in book.LikesList'>{{like.UserNickName}}</li></ul></div> -->
+					<div class="store-book-reviews"  ng-click="showBookInfo(book)"><span class="glyphicon glyphicon-bookmark"></span>{{book.Reviews}} Reviews</div>
+					<div class="store-book-like-button" ng-hide="book.IsLiked"><button class="btn btn-primary" ng-click="like(book)"><span class="glyphicon glyphicon-thumbs-up"></span>Like</button></div>
+					<div class="store-book-unlike-button" ng-show="book.IsLiked"><button class="btn btn-default" ng-click="unlike(book)"><span class="glyphicon glyphicon-thumbs-down"></span>Unlike</button></div>
+					<div class="store-book-review-button" ng-hide="book.IsReviewed"><button class="btn btn-info" ng-click="writeReview(book)"><span class="glyphicon glyphicon-bookmark"></span>Review</button></div>
+					<div class="store-book-review-button" ng-show="book.IsReviewed"><button class="btn btn-basic" disabled><span class="glyphicon glyphicon-bookmark"></span>Reviewed</button></div>
+					<div class="store-book-read-button" ng-hide="book.IsOpen"><button class="btn btn-default" ng-click="read(book)">Read</button></div>
+					<div class="store-book-read-button" ng-show="book.IsOpen"><button class="btn btn-default" ng-click="read(book)">Continue reading</button></div>
+				</div>
+			</div>
+		</div>
+		<div class="mybooks-book-info">
+			<div class="close-book-info-button" ng-click="closeBookInfo()">x</div>
+			<div class="mybooks-book-info-content">
+				<img class="book-info-img" ng-src='{{bookInfo.ImageUrl}}' />
+				<hr />
+				<div class="book-info-existing-reviews" ng-repeat="review in bookInfo.ReviewsList">
+					<p>Reviewer: {{review.ReviewerNickName}}</p>
+					<span ng-show="{{review.Score>4}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>3}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>2}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>1}}" class="glyphicon glyphicon-star"></span>
+					<span ng-show="{{review.Score>0}}" class="glyphicon glyphicon-star"></span>
+					<p class="book-info-review-content">{{review.Content}}</p>
+					<p class="book-info-review-date">{{review.Date}}</p>
+					<hr />
+				</div>
+			</div>
+		</div>
+		
+		<div class="book-info-write-review-form">
+		<h1 class="well">Write a review</h1>
+			<div class="col-lg-12 well">
+					<form ng-submit="sendReview()" method="post" name="writeReviewForm">
+						<div class="col-lg-12">
+							<div class="row">
+								<div class="form-group">
+									<label for="score">Score:</label>
+									<input type="number" ng-model="revScore" class="form-control" name="score" min="1" max="5" placeholder="1 - 5" required>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group">
+									<label for="content">Content:</label> 
+									<textarea rows="4" class="form-control" placeholder="Write whatever you think about this book" ng-model="revContent"
+									name="content" required></textarea>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group">
+									<div class="center">
+										<button type="submit" class="btn btn-default">Submit</button>
+										<button type="button" ng-click="closeWriteReviewWindow()" class="btn btn-default">Cancel</button>
+									</div>
+								</div>
+							</div>
+						</div>
+					</form>
+			</div>
+		</div>
+		
+		<div class="mybooks-reading-window">
+			<div class="close-book-button" ng-click="closeBook()">x</div>
+			<div class="reading-book-content" ng-include="currentBook.Path"></div>
+		</div>
+	</div>
+</div>

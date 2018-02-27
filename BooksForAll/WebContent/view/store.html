@@ -1,0 +1,114 @@
+<div class="store-page jumbotron" ng-controller="storeController">
+	<div class="container">
+		<h1>eBook Store</h1>
+		<h2>You can buy these books</h2>
+		<p>Choose the books you wish to buy</p>
+		<div class="store-new-books">
+			<div ng-repeat="book in newBooks" class="store-book-wrapper">
+				<div class="store-book-title">{{book.Name}}</div>
+				<div class="store-book-image"><img ng-src='{{book.ImageUrl}}' /></div>
+				<div class="store-book-description">{{book.Description}}</div>
+				<div class="store-book-likes"><span class="glyphicon glyphicon-thumbs-up"></span>{{book.Likes}} Likes</div>
+				<div class="store-book-reviews" ng-click="showBookInfo(book)"><span class="glyphicon glyphicon-bookmark"></span>{{book.Reviews}} Reviews</div>
+				<div class="store-book-price"><span class="glyphicon glyphicon-bitcoin"></span>Price: {{book.Price}}$</div>
+				<div class="store-book-button-section">
+					<div class="store-book-read-button"><button class="btn btn-success" ng-click="openPaymentWindow(book.Id)">Buy</button></div>
+				</div>
+			</div>
+		</div>
+		<h2>The books you already have</h2>
+		<div class="store-my-books" ng-controller="myBooksController">
+			<p class="warning-message">{{noBooksWarning}}</p>
+			<div ng-repeat="book in books" class="store-book-wrapper">
+				<div class="book-id-{{book.BookId}}">
+					<div class="store-book-title">{{book.Name}}</div>
+					
+					<div class="store-book-image"><img ng-src='{{book.ImageUrl}}' /></div>
+					<div class="store-book-description">{{book.Description}}</div>
+					
+					<div class="store-book-button-area">
+						<div class="store-book-likes" ng-mouseenter="showLikesTooltip(book.BookId)" ng-mouseleave="hideLikesTooltip(book.BookId)"><span class="glyphicon glyphicon-thumbs-up"></span>{{book.Likes}} Likes</div>
+						<div class="store-book-likes-tooltip"><ul class="store-book-likes-tooltip-{{book.BookId}}"><li ng-repeat='like in book.LikesList'>{{like.UserNickName}}</li></ul></div>
+						<div class="store-book-reviews" ng-click="showBookInfo(book)"><span class="glyphicon glyphicon-bookmark"></span>{{book.Reviews}} Reviews</div>
+						<div class="store-book-button-section">
+							<div class="store-book-like-button" ng-hide="book.IsLiked"><button class="btn btn-primary" ng-click="like(book)"><span class="glyphicon glyphicon-thumbs-up"></span>Like</button></div>
+							<div class="store-book-unlike-button" ng-show="book.IsLiked"><button class="btn btn-default" ng-click="unlike(book)"><span class="glyphicon glyphicon-thumbs-down"></span>Unlike</button></div>
+							<div class="store-book-review-button" ng-hide="book.IsReviewed"><button class="btn btn-info"><span class="glyphicon glyphicon-bookmark"></span>Review</button></div>
+							<div class="store-book-review-button" ng-show="book.IsReviewed"><button class="btn btn-basic" disabled><span class="glyphicon glyphicon-bookmark"></span>Reviewed</button></div>
+							<div class="store-book-read-button" ng-hide="book.IsOpen"><button class="btn btn-default" ng-click="read(book)">Read</button></div>
+							<div class="store-book-read-button" ng-show="book.IsOpen"><button class="btn btn-default" ng-click="read(book)">Continue reading</button></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="mybooks-book-info">
+				<div class="close-book-info-button" ng-click="closeBookInfo()">x</div>
+				<div class="mybooks-book-info-content">
+					<img class="book-info-img" ng-src='{{bookInfo.ImageUrl}}' />
+					<hr />
+					<div class="book-info-existing-reviews" ng-repeat="review in bookInfo.ReviewsList">
+						<p>Reviewer: {{review.ReviewerNickName}}</p>
+						<span ng-show="{{review.Score>4}}" class="glyphicon glyphicon-star"></span>
+						<span ng-show="{{review.Score>3}}" class="glyphicon glyphicon-star"></span>
+						<span ng-show="{{review.Score>2}}" class="glyphicon glyphicon-star"></span>
+						<span ng-show="{{review.Score>1}}" class="glyphicon glyphicon-star"></span>
+						<span ng-show="{{review.Score>0}}" class="glyphicon glyphicon-star"></span>
+						<p class="book-info-review-content">{{review.Content}}</p>
+						<p class="book-info-review-date">{{review.Date}}</p>
+						<hr />
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+		<div class="store-payment-form">
+			<h1 class="well">Payment details</h1>
+			<div class="col-lg-12 well">
+					<form ng-submit="buy()" method="post" name="paymentForm">
+						<div class="col-lg-12">
+							<div class="row">
+								<div class="form-group">
+									<label for="username">Full name:</label> <input type="text" ng-model="payFullName"
+										class="form-control" placeholder="First and Last"
+										name="fullname" required>
+								</div>
+								<div class="form-group">
+									<label for="cardType">Credit card company:</label>
+										<input type="radio" value="VISA" ng-model="payCardType" name="cardType" required>Visa
+										<input type="radio" value="AMEX" ng-model="payCardType" name="cardType" required>Amex
+								</div>
+								<div class="form-group">
+									<label for="cardNumber">Card number:</label> <input type="text" ng-model="payCardNumber"
+										class="form-control" name="cardNumber" required>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group">
+									<label for="expiryMonth">Expiry:</label>
+									<input type="number" ng-model="payExpiryMonth" class="form-control" name="expiryMonth" min="1" max="12" placeholder="Month (MM)" required>
+									<input type="number" ng-model="payExpiryYear" class="form-control" name="expiryMonth" min="2018" max="2099" placeholder="Year (YYYY)" required>
+								</div>
+								<div class="form-group">
+									<label for="CVV">CVV:</label> <input type="number" ng-model="payCVV"
+										class="form-control" name="CVV" min="100" max="999" placeholder="3 digits behind the card" required>
+								</div>
+							</div>
+							<div class="row">
+								<div class="form-group">
+									<div class="center">
+										<button type="submit" class="btn btn-default">Submit</button>
+										<button type="button" ng-click="closePaymentWindow()" class="btn btn-default">Cancel</button>
+										<p class="warning-message" ng-repeat="cwe in creditValidationError">{{cwe.details}}</p>
+										<p class="warning-message">{{creditValidationError}}</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</form>
+			</div>
+		</div>
+			
+	</div>
+</div>

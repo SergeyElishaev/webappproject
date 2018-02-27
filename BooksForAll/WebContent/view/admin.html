@@ -1,0 +1,68 @@
+<div class="admin-page jumbotron" ng-controller="adminController">
+	<div class="container">
+		<h1>Admin Section</h1>
+		<p>Do whatever you want. you are the admin</p>
+		<button class="btn btn-info" ng-click="browseUsers()">Browse Users</button>
+		<button class="btn btn-info" ng-click="browseEbooks()">Browse e-Books</button>
+		<button class="btn btn-info" ng-click="recentTransactions()">Recent Transactions</button>
+		<button class="btn btn-info" ng-click="browseReviewRequests()">Browse review requests</button>
+		
+		<div class="admin-all-users">
+			<h2>All registered Users</h2>
+			<div ng-repeat="u in users" class="admin-user-wrapper">
+			<div class="user-info-image">
+				<img ng-src="{{u.PhotoURL}}" />
+			</div>
+			<div class="user-info-list">
+				<ul class="u-details-list">
+					<li><span class="list-label">Nickname: </span>{{u.Nickname}} <span ng-if="u.Role" class="admin-user-admin-label">(Admin)</span></li>
+					<li><span class="list-label">Username: </span>{{u.Username}}</li>
+					<li><span class="list-label">Descriptin: </span>{{u.Description}}</li>
+					<li><span class="list-label">Email: </span>{{u.Email}}</li>
+					<li><span class="list-label">Phone: </span>{{u.Phone}}</li>
+					<li><span class="list-label">Address: </span>{{u.AddrStreet + " " + u.AddrNumber + ", " + u.AddrCity + ", " + u.AddrZip}}</li>
+				</ul>
+			</div>
+				<div class="admin-list-buttons">
+					<button class="btn btn-danger" ng-click="removeUser(u)">Remove User</button>
+				</div>
+			</div>
+		</div>
+		
+		<div class="admin-browse-ebooks">
+			<div ng-include="'view/allbooks.html'"></div>
+		</div>
+		
+		<div class="admin-recent-transactions">
+			<h2>Recent Transactions</h2>
+			<div ng-repeat="t in transactions" class="admin-transaction-wrapper">
+				<ul class="t-details-list">
+					<li><span class="list-label">Buyer nickname: </span>{{t.UserNickname}}</li>
+					<li><span class="list-label">Book: </span>{{t.BookName}}</li>
+					<li><span class="list-label">Price: </span>{{t.Price}}</li>
+					<li><span class="list-label">Date Of Purchase: </span>{{t.DateOfPurchase}}</li>
+				</ul>
+			</div>
+		</div>
+		
+		<div class="admin-review-requests">
+			<h2>Review requests</h2>
+			<div ng-repeat="r in reviews" class="admin-review-request-wrapper" ng-show="r.Status != 'approved'">
+				<ul class="r-details-list">
+					<li><span class="list-label">Reviewer nickname: </span>{{r.ReviewerNickName}}</li>
+					<li><span class="list-label">Book: </span>{{r.BookName}}</li>
+					<li><span class="list-label">Score: </span>{{r.Score}}</li>
+					<li><span class="list-label">Content: </span>{{r.Content}}</li>
+					<li><span class="list-label">Status: </span><span class="admin-review-status-{{r.Status}}">{{r.Status}}</span></li>
+				</ul>
+				<div class="admin-list-buttons" ng-if="r.Status != 'approved'">
+					<button class="btn btn-info" ng-click="approveReview(r)">Approve</button>
+					<button ng-if="r.Status != 'rejected'" class="btn btn-danger" ng-click="rejectReview(r)">Reject</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+</div>

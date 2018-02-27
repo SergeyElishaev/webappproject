@@ -1,0 +1,102 @@
+[
+	{
+		"Id": "1",
+		"Name": "The Adventures of Sherlock Holmes",
+		"Path": "lib/eBooks/1661.htm",
+		"ImageUrl": "lib/eBooks/coverImage/1661.jpg",
+		"Price": "100",
+		"Description": "by Sir Arthur Conan Doyle",
+		"Likes": "5",
+		"Reviews": "7"
+	},
+	{
+		"Id": "2",
+		"Name": "The Old Man of the Sea",
+		"Path": "lib/eBooks/10571.htm",
+		"ImageUrl": "lib/eBooks/coverImage/10571.jpg",
+		"Price": "80",
+		"Description": "W.W. Jacobs",
+		"Likes": "3",
+		"Reviews": "7"
+	},
+	{
+		"Id": "3",
+		"Name": "Sir Gawayne and the Green Knight",
+		"Path": "lib/eBooks/14568.html",
+		"ImageUrl": "lib/eBooks/coverImage/14568.jpg",
+		"Price": "60",
+		"Description": "By author of 'Early english alliterative poems'",
+		"Likes": "7",
+		"Reviews": "7"
+	},
+	{
+		"Id": "4",
+		"Name": "Treasure Island",
+		"Path": "lib/eBooks/120.html",
+		"ImageUrl": "lib/eBooks/coverImage/120.jpg",
+		"Price": "140",
+		"Description": "Robert Louis Stevenson",
+		"Likes": "4",
+		"Reviews": "9"
+	},
+	{
+		"Id": "5",
+		"Name": "The Count of Monte Cristo",
+		"Path": "lib/eBooks/1184.html",
+		"ImageUrl": "lib/eBooks/coverImage/1184.jpg",
+		"Price": "300",
+		"Description": "Alexandre Dumas, pere",
+		"Likes": "4",
+		"Reviews": "8"
+	},
+	{
+		"Id": "6",
+		"Name": "The Three Musketeers",
+		"Path": "lib/eBooks/1257.html",
+		"ImageUrl": "lib/eBooks/coverImage/1257.jpg",
+		"Price": "250",
+		"Description": "Alexandre Dumas, pere",
+		"Likes": "5",
+		"Reviews": "7"
+	},
+	{
+		"Id": "7",
+		"Name": "The Man in the Iron Mask",
+		"Path": "lib/eBooks/2759.html",
+		"ImageUrl": "lib/eBooks/coverImage/2759.jpg",
+		"Price": "65",
+		"Description": "Alexandre Dumas, pere",
+		"Likes": "4",
+		"Reviews": "8"
+	},
+	{
+		"Id": "8",
+		"Name": "Dorothy and the Wizard in Oz",
+		"Path": "lib/eBooks/22566.html",
+		"ImageUrl": "lib/eBooks/coverImage/22566.jpg",
+		"Price": "85",
+		"Description": "",
+		"Likes": "4",
+		"Reviews": "7"
+	},
+	{
+		"Id": "9",
+		"Name": "Wuthering Heights",
+		"Path": "lib/eBooks/768.html",
+		"ImageUrl": "lib/eBooks/coverImage/768.jpg",
+		"Price": "60",
+		"Description": "Emily Bronte",
+		"Likes": "5",
+		"Reviews": "7"
+	},
+	{
+		"Id": "10",
+		"Name": "Alice's Adventures in Wonderland",
+		"Path": "lib/eBooks/28885.html",
+		"ImageUrl": "lib/eBooks/coverImage/28885.jpg",
+		"Price": "70",
+		"Description": "Lewis Carroll",
+		"Likes": "6",
+		"Reviews": "7"
+	}
+]
